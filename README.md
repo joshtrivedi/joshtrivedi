@@ -8,7 +8,7 @@
 </br>
 
 - 🔭 currently working on Face Detection and Recognition.
-- 👯 I’m looking to learn and work more in the fields of JS and TS, specially Machine Learning and AI Projects 
+- 👯 Looking forward to work more in JS and TS, specially Machine Learning and AI Projects 
 - 💬 Ask me about: Anything!
 - 📫 You can reach me on: josh.trivedi@gmail.com 
 - 💻 My portfolio: https://joshtrivedi.github.io/portfolio
