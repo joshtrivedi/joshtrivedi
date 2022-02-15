@@ -14,7 +14,9 @@
 - 💻 My portfolio: https://joshtrivedi.github.io/portfolio
 - ⚡ Fun fact: I am a prospective master's student in the field of Artificial Intelligence and Video / Image Computing
 - 🤡 My Best Friend: check out my best friend at https://github.com/GulsahG
+
 <br/>
+
 
 ## My Coding Stats
 
@@ -24,7 +26,7 @@
     <img align="top" alt="wakatime-stats" src="https://github-readme-stats-josh.vercel.app/api/wakatime?username=joshtrivedi&theme=dark"/>
     </a>
     <a href="">
-    <img align="top" alt="top-languages-stats" src="https://github-readme-stats-josh.vercel.app/api/top-langs/?username=joshtrivedi&hide=jupyter%20notebook&langs_count=4&theme=dark" />
+    <img align="top" alt="top-languages-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshtrivedi&hide=jupyter%20notebook&langs_count=4&theme=dark" />
     </a>
 </div>
 </br>
