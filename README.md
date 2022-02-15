@@ -13,7 +13,7 @@
 - 📫 You can reach me on: josh.trivedi@gmail.com 
 - 💻 My portfolio: https://joshtrivedi.github.io/portfolio
 - ⚡ Fun fact: I am a prospective master's student in the field of Artificial Intelligence and Video / Image Computing
-- 🤡 My Best Friend: My best friend is way more talented than me, and I get inspired from her, check her out at https://github.com/GulsahG
+- 🤡 My Best Friend: check out my best friend at https://github.com/GulsahG
 <br/>
 
 ## My Coding Stats
