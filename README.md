@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Josh, an ICT student, currently in my Final Year of Engineering
+## I am Josh, an ICT Engineering Graduate, currently pursuing a Masters of Science in Machine Learning and Data Mining at Universitè Jean Monnet, Saint Étienne, France
 <div>
     <a href="">
     <img align="center" alt="github-stats" src="https://github-readme-stats-josh.vercel.app/api?username=joshtrivedi&hide=prs,contribs,issues,count_private=true&show_icons=true&theme=dark" />
