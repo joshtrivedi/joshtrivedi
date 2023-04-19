@@ -20,6 +20,7 @@
 
 ## My Coding Stats
 
+[![wakatime](https://wakatime.com/badge/user/b0bb76ee-adce-4d72-919a-ee87f31be648.svg)](https://wakatime.com/@b0bb76ee-adce-4d72-919a-ee87f31be648)
 
 <div>
     <a href="">
