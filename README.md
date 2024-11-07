@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Josh, an ICT Engineering Graduate, currently pursuing a Masters of Science in Machine Learning and Data Mining at Universitè Jean Monnet, Saint Étienne, France
+## I am Josh, an ICT Engineering Graduate, and a Masters of Science holder in Machine Learning and Data Mining at Universitè Jean Monnet, Saint Étienne, France
 <div>
     <a href="">
     <img align="center" alt="github-stats" src="https://github-readme-stats-josh.vercel.app/api?username=joshtrivedi&hide=prs,contribs,issues,count_private=true&show_icons=true&theme=dark" />
@@ -12,7 +12,7 @@
 - 💬 Ask me about: Anything!
 - 📫 You can reach me on: josh.trivedi@gmail.com 
 - 💻 My portfolio: https://joshtrivedi.github.io/portfolio
-- ⚡ Fun fact: I am a prospective master's student in the field of Artificial Intelligence and Video / Image Computing
+- ⚡ Fun fact: I like Gaming, as well as Socialising, I am currently the acting Vice President and events coordinator at ESN BISE Saint-Etienne. 
 - 🤡 My Best Friend: check out my best friend at https://github.com/GulsahG
 
 <br/>
