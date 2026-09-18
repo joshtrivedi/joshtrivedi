@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Josh, an ICT Engineering Graduate, and a M.Sc Machine Learning and Data Mining Graduate.
+## I am Josh, CTO & Co-Founder at Predeeption, and an M.Sc Machine Learning and Data Mining Graduate.
 <div>
     <a href="">
     <img align="center" alt="github-stats" src="https://github-readme-stats-josh.vercel.app/api?username=joshtrivedi&hide=prs,contribs,issues,count_private=true&show_icons=true&theme=dark" />
@@ -7,13 +7,13 @@
 </div>
 </br>
 
-- 🔭 currently working on Face Detection and Recognition.
-- 👯 Looking forward to work more in JS and TS, specially Machine Learning and AI Projects 
+- 🔭 Currently building **Predeeption**, an LLM-powered scientific data intelligence platform for EV battery analytics, incubated by INRIA Startup Studio
+- 🏆 Top 10%, Kaggle CryoET Object Identification Competition 2025
+- 🟢 Open to work: AI Engineer, ML Engineer, and Research Engineer roles in the Netherlands and France
 - 💬 Ask me about: Anything!
 - 📫 You can reach me on: josh.trivedi@gmail.com 
 - 💻 My portfolio: https://joshtrivedi.github.io/portfolio
-- ⚡ Fun fact: I like Gaming, as well as Socialising, I am currently the acting Vice President and events coordinator at ESN BISE Saint-Etienne. 
-- 🤡 My Best Friend: check out my best friend at https://github.com/GulsahG
+- ⚡ Fun fact: I like Gaming, as well as Socialising. I was the acting Vice President and events coordinator at ESN BISE Saint-Etienne during my masters.
 
 <br/>
 
