@@ -10,7 +10,7 @@
 - 🚀 CTO & Co-Founder, **Predeeption** (Amiens, France) — incubated by INRIA Startup Studio with CNRS partnership; production LLM systems with Augmented RAG, distributed pipelines on Kafka, Spark and Databricks
 - 🎓 M.Sc Machine Learning and Data Mining, Universite Jean Monnet — Physics-informed ML for 3D molecular reconstruction from cryo-EM data
 - 🏆 Top 10%, Kaggle CryoET Object Identification Competition 2025
-- 🟢 Open to work: AI Engineer, ML Engineer, and Research Engineer roles in the Netherlands and France
+- 🟢 Open to work: AI Engineer, ML Engineer, Research Engineer, Data Engineer, MLOps Engineer, Full-Stack Engineer, and Technical Lead roles in the Netherlands and France
 - 💬 Ask me about: Anything!
 - 📫 You can reach me on: josh.trivedi@gmail.com 
 - 💻 My portfolio: https://joshtrivedi.github.io/portfolio
