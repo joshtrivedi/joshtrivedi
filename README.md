@@ -22,10 +22,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/b0bb76ee-adce-4d72-919a-ee87f31be648.svg)](https://wakatime.com/@b0bb76ee-adce-4d72-919a-ee87f31be648)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div>
-    <a href="">
-    <img align="top" alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=joshtrivedi&theme=dark"/>
-    </a>
     <a href="">
     <img align="top" alt="top-languages-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshtrivedi&hide=jupyter%20notebook,html&langs_count=4&theme=dark&exclude_repo=face_recognition,fresh-meal-shop,FittsDragAndDrop,FittsTilt,Line-Coding,Algorithms-I" />
     </a>
