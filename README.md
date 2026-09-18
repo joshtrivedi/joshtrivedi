@@ -34,6 +34,13 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<div>
+    <a href="">
+    <img align="top" alt="top-languages-stats" src="https://github-readme-stats-josh.vercel.app/api/top-langs/?username=joshtrivedi&hide=jupyter%20notebook,html&langs_count=4&theme=dark&exclude_repo=face_recognition,fresh-meal-shop,FittsDragAndDrop,FittsTilt,Line-Coding,Algorithms-I" />
+    </a>
+</div>
+</br>
+
 ## My Pinned Repositories: 
 
 <div>
