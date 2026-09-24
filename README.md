@@ -77,47 +77,45 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               51 mins             █████████░░░░░░░░░░░░░░░░   37.58 % 
-Markdown                 48 mins             █████████░░░░░░░░░░░░░░░░   35.15 % 
-CSS                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Markdown                 44 mins             █████████░░░░░░░░░░░░░░░░   37.06 % 
+TypeScript               43 mins             █████████░░░░░░░░░░░░░░░░   36.56 % 
+CSS                      24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Claude Code              1 hr 53 mins        █████████████████████░░░░   82.59 % 
-VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Claude Code              1 hr 43 mins        ██████████████████████░░░   86.40 % 
+VS Code                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 
 🐱‍💻 Projects: 
-portfolio                1 hr 12 mins        █████████████░░░░░░░░░░░░   52.42 % 
-joshtrivedi              26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-GIthub                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Next-project             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+portfolio                1 hr 12 mins        ███████████████░░░░░░░░░░   60.12 % 
+joshtrivedi              26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+GIthub                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        ██████████████████████░░░   87.20 % 
-Mac                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (96.11%)
+⏱ AI Coding Time: 1 hr 58 mins (98.73%)
 
-✍️ 1,291 lines written by AI, 1 lines written by hand (99.92% AI-written)
+✍️ 175 lines written by AI, 1 lines written by hand (99.43% AI-written)
 
-🔤 403,931 Input Tokens, 89,597 Output Tokens
+🔤 280,255 Input Tokens, 80,931 Output Tokens
 
-💵 $6.48 Estimated AI Cost This Week
+💵 $5.68 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 37 AI Prompts
+🧠 1 AI Sessions, 23 AI Prompts
 
-Sonnet                   1,305 lines         █████████████████████████   100.00 % 
+Sonnet                   189 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📄 Detailed Prompter — average 529 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🤖 AI-Driven — 99.43% of written lines came from AI
+📝 Concise Prompter — average 135 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,7 +135,7 @@ R                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/joshtrivedi/joshtrivedi/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 02:32:32 UTC
+ Last Updated on 24/09/2026 02:21:41 UTC
 <!--END_SECTION:waka-->
 
 <div>
