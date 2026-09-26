@@ -32,9 +32,9 @@
 [![wakatime](https://wakatime.com/badge/user/b0bb76ee-adce-4d72-919a-ee87f31be648.svg)](https://wakatime.com/@b0bb76ee-adce-4d72-919a-ee87f31be648)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,45 +77,39 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 44 mins             █████████░░░░░░░░░░░░░░░░   37.06 % 
-TypeScript               43 mins             █████████░░░░░░░░░░░░░░░░   36.56 % 
-CSS                      24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+HTML                     15 mins             ███████████████████████░░   91.14 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 
 🔥 Editors: 
-Claude Code              1 hr 43 mins        ██████████████████████░░░   86.40 % 
-VS Code                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Claude Code              16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                1 hr 12 mins        ███████████████░░░░░░░░░░   60.12 % 
-joshtrivedi              26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-GIthub                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Next-project             16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 58 mins (98.73%)
+⏱ AI Coding Time: 16 mins (100.0%)
 
-✍️ 175 lines written by AI, 1 lines written by hand (99.43% AI-written)
+✍️ 701 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 280,255 Input Tokens, 80,931 Output Tokens
+🔤 104,378 Input Tokens, 33,986 Output Tokens
 
-💵 $5.68 Estimated AI Cost This Week
+💵 $1.14 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 23 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
-Sonnet                   189 lines           █████████████████████████   100.00 % 
+Sonnet                   701 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.43% of written lines came from AI
-📝 Concise Prompter — average 135 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🚀 High AI Trust — 0.53% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 630 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,7 +129,7 @@ R                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/joshtrivedi/joshtrivedi/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 02:37:56 UTC
+ Last Updated on 26/09/2026 02:40:32 UTC
 <!--END_SECTION:waka-->
 
 <div>
